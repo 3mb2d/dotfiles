@@ -1,0 +1,6 @@
+[submodule "tilix"]
+	path = tilix
+	url = https://github.com/catppuccin/tilix.git
+[submodule "vscode"]
+	path = vscode
+	url = https://github.com/catppuccin/vscode.git
