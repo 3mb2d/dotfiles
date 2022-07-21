@@ -28,4 +28,9 @@ git clone --recurse-submodules git@github.com:3mb2d/dotfiles.git
 
 ## GTK
 1. Install Gnome-Tweaks
-2. Shell theme uses compressed install from [gtk](https://github.com/catppuccin/wallpapers/) and legacy applications the uncompressed version
+2. Shell theme uses compressed install from [gtk](https://github.com/catppuccin/gtk/releases/tag/update_23_02_2022) and legacy applications the uncompressed version. Current theme is purple.
+
+## Wallpaper
+
+Currently using this [wallpaper](wallpapers/waves/cat-waves.png):
+![waves\cat-waves.png](wallpapers/waves/cat-waves.png)
