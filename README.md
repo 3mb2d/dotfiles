@@ -25,3 +25,7 @@ git clone --recurse-submodules git@github.com:3mb2d/dotfiles.git
 1. [Follow Here](https://ohmyposh.dev/docs/installation/linux)
 2. cp [config](.OMP/clean-detailed.omp.json)
 3. copy contents of [.bash_aliases](.bash_aliases) related to homebrew and OMP (OMP command should be updated with path to config file)
+
+## GTK
+1. Install Gnome-Tweaks
+2. Shell theme uses compressed install from [gtk](https://github.com/catppuccin/wallpapers/) and legacy applications the uncompressed version
